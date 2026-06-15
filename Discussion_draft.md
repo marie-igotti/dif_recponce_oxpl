@@ -2,6 +2,8 @@
 
 ## Расширенная версия для статьи Morshneva et al.
 
+# Wirth changes
+
 ---
 
 Colorectal cancer remains a leading cause of cancer mortality, largely due to drug resistance that fuels cancer relapse. In our previous study [10], we characterized the basal transcriptomic differences between oxaliplatin-sensitive and -resistant HCT116 cells, identifying altered redox homeostasis, metabolic adaptation, and reduced proliferative potential as correlates of resistance. However, the comparison of basal gene expression alone was insufficient to distinguish which alterations actively contribute to the resistant phenotype from those that are merely passenger events. In the present study, we directly compared the transcriptional responses of sensitive and resistant cells to oxaliplatin, revealing a fundamentally different adaptive strategy that underlies the resistant phenotype.
