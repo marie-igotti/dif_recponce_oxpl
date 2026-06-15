@@ -1,0 +1,103 @@
+name: Validate Bibliography
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'references.json'
+      - 'scripts/validate_bibliography.py'
+      - '.github/workflows/validate-references.yml'
+  pull_request:
+    branches: [main, master]
+    paths:
+      - 'references.json'
+      - 'scripts/validate_bibliography.py'
+      - '.github/workflows/validate-references.yml'
+  # Manual trigger from GitHub UI
+  workflow_dispatch:
+  # Scheduled run — 1st of every month at 07:00 UTC
+  schedule:
+    - cron: '0 7 1 * *'
+
+jobs:
+  validate-references:
+    name: Validate bibliography references
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate references
+        id: validate
+        run: |
+          python3 scripts/validate_bibliography.py \
+            --references references.json \
+            --json-report validation_report.json
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bibliography-validation-report
+          path: validation_report.json
+          retention-days: 30
+
+      - name: Post summary to job
+        if: always()
+        run: |
+          echo "## 📚 Bibliography Validation" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          python3 -c "
+          import json
+          with open('validation_report.json') as f:
+              report = json.load(f)
+          s = report['summary']
+          print(f'| Status | Count |')
+          print(f'|--------|-------|')
+          print(f'| ✅ OK  | {s[\"ok\"]} |')
+          print(f'| ⚠️ Warning | {s[\"warning\"]} |')
+          print(f'| ❌ Error | {s[\"error\"]} |')
+          print(f'| ⬜ Skipped | {s[\"skipped\"]} |')
+          print(f'| **Total** | **{s[\"total\"]}** |')
+          print()
+          if s['error'] > 0:
+              print('### ❌ Broken References')
+              for r in report['results']:
+                  if r['status'] == 'error':
+                      print(f'- **{r[\"ref_id\"]}**: {r[\"message\"][:200]}')
+          if s['warning'] > 0:
+              print('### ⚠️ Warnings')
+              for r in report['results']:
+                  if r['status'] == 'warning':
+                      print(f'- **{r[\"ref_id\"]}**: {r[\"message\"][:200]}')
+          " >> $GITHUB_STEP_SUMMARY
+
+  # ── Optional: strict check on main branch ──
+  validate-strict:
+    name: Validate bibliography (strict — title match required)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate references (strict)
+        run: |
+          python3 scripts/validate_bibliography.py \
+            --references references.json \
+            --json-report validation_report_strict.json \
+            --strict

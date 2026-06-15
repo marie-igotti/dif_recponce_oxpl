@@ -1,0 +1,449 @@
+{
+  "summary": {
+    "total": 43,
+    "ok": 20,
+    "warning": 15,
+    "error": 7,
+    "skipped": 1
+  },
+  "results": [
+    {
+      "doi": "10.1038/s41392-024-01891-4",
+      "status": "ok",
+      "crossref_title": "Drug tolerant persister cell plasticity in cancer: a revolutionary strategy for more effective anticancer therapies",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1038/s41392-024-01891-4 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Signal Transduction and Targeted Therapy",
+      "crossref_year": 2024,
+      "ref_id": "deconti2024"
+    },
+    {
+      "doi": "10.1016/j.cell.2020.11.018",
+      "status": "ok",
+      "crossref_title": "Colorectal Cancer Cells Enter a Diapause-like DTP State to Survive Chemotherapy",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1016/j.cell.2020.11.018 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Cell",
+      "crossref_year": 2021,
+      "ref_id": "rehman2021"
+    },
+    {
+      "doi": "10.3390/ijms24043762",
+      "status": "ok",
+      "crossref_title": "Quiescent Cancer Cells—A Potential Therapeutic Target to Overcome Tumor Resistance and Relapse",
+      "title_match": true,
+      "title_similarity": 0.846,
+      "message": "DOI 10.3390/ijms24043762 resolves — title matches (similarity=0.85)",
+      "crossref_journal": "International Journal of Molecular Sciences",
+      "crossref_year": 2023,
+      "ref_id": "lindell2023"
+    },
+    {
+      "doi": "10.1016/j.celrep.2023.112927",
+      "status": "ok",
+      "crossref_title": "DPPA3-HIF1α axis controls colorectal cancer chemoresistance by imposing a slow cell-cycle phenotype",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1016/j.celrep.2023.112927 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Cell Reports",
+      "crossref_year": 2023,
+      "ref_id": "cuesta2023"
+    },
+    {
+      "pmid": "40738736",
+      "status": "ok",
+      "pubmed_title": "Stress granules promote quiescence by enhancing p21 levels and reducing phospho-Rb.",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "PMID 40738736 resolves — title matches (similarity=1.00)",
+      "pubmed_journal": "RNA",
+      "pubmed_year": "2025",
+      "ref_id": "khong2025"
+    },
+    {
+      "doi": "10.1111/j.1472-8206.2007.00471.x",
+      "status": "warning",
+      "crossref_title": "Artemisinin antimalarials moderately affect cytochrome P450 enzyme activity in healthy subjects",
+      "title_match": false,
+      "title_similarity": 0.0,
+      "message": "DOI 10.1111/j.1472-8206.2007.00471.x resolves but TITLE MISMATCH.\n  Reported: Cell cycle arrest by oxaliplatin on cancer cells\n  CrossRef: Artemisinin antimalarials moderately affect cytochrome P450 enzyme activity in healthy subjects\n  Similarity: 0.00",
+      "crossref_journal": "Fundamental &amp; Clinical Pharmacology",
+      "crossref_year": 2007,
+      "ref_id": "william2007"
+    },
+    {
+      "doi": "10.1097/MS9.0000000000003112",
+      "status": "warning",
+      "crossref_title": "Artificial intelligence in cardiovascular procedures: a bibliometric and visual analysis study",
+      "title_match": false,
+      "title_similarity": 0.0,
+      "message": "DOI 10.1097/MS9.0000000000003112 resolves but TITLE MISMATCH.\n  Reported: Adenovirus E1A protein sensitizes chemotherapy-resistant tumors to cisplatin\n  CrossRef: Artificial intelligence in cardiovascular procedures: a bibliometric and visual analysis study\n  Similarity: 0.00",
+      "crossref_journal": "Annals of Medicine &amp; Surgery",
+      "crossref_year": 2025,
+      "ref_id": "tazawa2026"
+    },
+    {
+      "doi": "10.1158/1535-7163.MCT-05-0011",
+      "status": "ok",
+      "crossref_title": "Role of p21waf1/cip1 in effects of oxaliplatin in colorectal cancer cells",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1158/1535-7163.MCT-05-0011 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Molecular Cancer Therapeutics",
+      "crossref_year": 2005,
+      "ref_id": "hata2005"
+    },
+    {
+      "doi": "10.1038/s41467-025-66836-z",
+      "status": "ok",
+      "crossref_title": "Single-cell RNA sequencing reveals a quiescence-senescence continuum and distinct senotypes following chemotherapy",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1038/s41467-025-66836-z resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Nature Communications",
+      "crossref_year": 2025,
+      "ref_id": "chen2025"
+    },
+    {
+      "doi": "10.3892/ijmm.2025.5675",
+      "status": "warning",
+      "crossref_title": "Exportin 1 inhibitor KPT‑330 reverses oxaliplatin resistance via p53 nuclear retention in colorectal cancer",
+      "title_match": false,
+      "title_similarity": 0.188,
+      "message": "DOI 10.3892/ijmm.2025.5675 resolves but TITLE MISMATCH.\n  Reported: miR-100-5p enhances cell cycle-mediated chemoresistance by modulating the CTDSPL/pRB/E2F1 signaling pathway in oxaliplat\n  CrossRef: Exportin 1 inhibitor KPT‑330 reverses oxaliplatin resistance via p53 nuclear retention in colorectal cancer\n  Similarity: 0.19",
+      "crossref_journal": "International Journal of Molecular Medicine",
+      "crossref_year": 2025,
+      "ref_id": "li2025"
+    },
+    {
+      "doi": "10.1007/s12032-016-0842-7",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1007/s12032-016-0842-7 — CrossRef API returned no valid response",
+      "ref_id": "abasi2016"
+    },
+    {
+      "doi": "10.1038/s41467-021-26066-3",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1038/s41467-021-26066-3 — CrossRef API returned no valid response",
+      "ref_id": "bandiera2021"
+    },
+    {
+      "doi": "10.1016/j.molcel.2023.09.021",
+      "status": "warning",
+      "crossref_title": "DICER ribonuclease removes harmful R-loops",
+      "title_match": false,
+      "title_similarity": 0.0,
+      "message": "DOI 10.1016/j.molcel.2023.09.021 resolves but TITLE MISMATCH.\n  Reported: N6-methyladenosine in 7SK small nuclear RNA underlies RNA polymerase II transcription regulation\n  CrossRef: DICER ribonuclease removes harmful R-loops\n  Similarity: 0.00",
+      "crossref_journal": "Molecular Cell",
+      "crossref_year": 2023,
+      "ref_id": "wang2023"
+    },
+    {
+      "doi": "10.1016/j.omtn.2025.102449",
+      "status": "warning",
+      "crossref_title": "Development of a cell-penetrating peptide-based nanocomplex for long-term delivery of intact mitochondrial DNA into epithelial cells",
+      "title_match": false,
+      "title_similarity": 0.062,
+      "message": "DOI 10.1016/j.omtn.2025.102449 resolves but TITLE MISMATCH.\n  Reported: Targeted inhibition of 7SK long non-coding RNA using Rn7SK-siRNA promotes gastric cancer cell proliferation and migratio\n  CrossRef: Development of a cell-penetrating peptide-based nanocomplex for long-term delivery of intact mitochondrial DNA into epit\n  Similarity: 0.06",
+      "crossref_journal": "Molecular Therapy Nucleic Acids",
+      "crossref_year": 2025,
+      "ref_id": "mirzaei2025"
+    },
+    {
+      "doi": "10.1038/s41388-023-02835-2",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1038/s41388-023-02835-2 — CrossRef API returned no valid response",
+      "ref_id": "xie2023"
+    },
+    {
+      "doi": "10.1007/s00384-024-04675-8",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1007/s00384-024-04675-8 — CrossRef API returned no valid response",
+      "ref_id": "shakeri2024"
+    },
+    {
+      "doi": "10.1159/000489246",
+      "status": "warning",
+      "crossref_title": "Protective Effects of Fucoidan on Epithelial-Mesenchymal Transition of Retinal Pigment Epithelial Cells and Progression of Proliferative Vitreoretinopathy",
+      "title_match": false,
+      "title_similarity": 0.133,
+      "message": "DOI 10.1159/000489246 resolves but TITLE MISMATCH.\n  Reported: Promotion of tumor growth by ADAMTS4 in colorectal cancer: focused on macrophages\n  CrossRef: Protective Effects of Fucoidan on Epithelial-Mesenchymal Transition of Retinal Pigment Epithelial Cells and Progression \n  Similarity: 0.13",
+      "crossref_journal": "Cellular Physiology and Biochemistry",
+      "crossref_year": 2018,
+      "ref_id": "chen2018"
+    },
+    {
+      "doi": "10.1186/s13062-024-00542-4",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1186/s13062-024-00542-4 — CrossRef API returned no valid response",
+      "ref_id": "zhai2024"
+    },
+    {
+      "doi": "10.1111/cas.16497",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1111/cas.16497 — CrossRef API returned no valid response",
+      "ref_id": "takikawa2025"
+    },
+    {
+      "ref_id": "yao2012",
+      "status": "warning",
+      "message": "[yao2012] INCOMPLETE — no DOI/PMID, needs manual verification.\n  Authors: Yao J, Liang L, Huang S, Ding J, Tan J, Ding Y\n  Title: GNAI1 suppresses tumor cell migration and invasion in hepatocellular carcinoma\n  Note: Reference incomplete in manuscript — full journal/DOI pending"
+    },
+    {
+      "ref_id": "li2019",
+      "status": "warning",
+      "message": "[li2019] INCOMPLETE — no DOI/PMID, needs manual verification.\n  Authors: Li ZW, Sun B, Gong T, Guo S, Zhang J, Wang J\n  Title: Reduced GNAI1 expression linked to colitis-associated tumorigenesis\n  Note: Reference incomplete in manuscript — full journal/DOI pending"
+    },
+    {
+      "doi": "10.3390/cells10102707",
+      "status": "ok",
+      "crossref_title": "Redox Control of the Dormant Cancer Cell Life Cycle",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.3390/cells10102707 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Cells",
+      "crossref_year": 2021,
+      "ref_id": "li2021redox"
+    },
+    {
+      "doi": "10.1101/2024.12.17.628817",
+      "status": "warning",
+      "crossref_title": "Modelling oxaliplatin resistance in colorectal cancer reveals a\n                  <i>SERPINE1</i>\n                  -based gene signature (RESIST-M) and therapeutic strategies for pro-metastatic CMS4 subtype",
+      "title_match": false,
+      "title_similarity": 0.55,
+      "message": "DOI 10.1101/2024.12.17.628817 resolves but TITLE MISMATCH.\n  Reported: Modelling oxaliplatin resistance in colorectal cancer reveals a SERPINE1-based gene signature (RESIST-M)\n  CrossRef: Modelling oxaliplatin resistance in colorectal cancer reveals a\n                  <i>SERPINE1</i>\n                  -bas\n  Similarity: 0.55",
+      "crossref_journal": null,
+      "crossref_year": 2024,
+      "ref_id": "moussalem2024"
+    },
+    {
+      "doi": "10.1038/s41388-025-03453-6",
+      "status": "ok",
+      "crossref_title": "BRD4 regulates PAI-1 expression in tumor-associated macrophages to drive chemoresistance in colorectal cancer",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1038/s41388-025-03453-6 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Oncogene",
+      "crossref_year": 2025,
+      "ref_id": "pan2025"
+    },
+    {
+      "doi": "10.1186/s13059-023-02963-4",
+      "status": "ok",
+      "crossref_title": "Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1186/s13059-023-02963-4 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Genome Biology",
+      "crossref_year": 2023,
+      "ref_id": "wiedemann2023"
+    },
+    {
+      "doi": "10.3390/cancers12092655",
+      "status": "ok",
+      "crossref_title": "FUCCI Real-Time Cell-Cycle Imaging as a Guide for Designing Improved Cancer Therapy: A Review of Innovative Strategies to Target Quiescent Chemo-Resistant Cancer Cells",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.3390/cancers12092655 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Cancers",
+      "crossref_year": 2020,
+      "ref_id": "yano2020"
+    },
+    {
+      "doi": "10.1016/j.semcancer.2021.04.021",
+      "status": "ok",
+      "crossref_title": "Slow-cycling (dormant) cancer cells in therapy resistance, cancer relapse and metastasis",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1016/j.semcancer.2021.04.021 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Seminars in Cancer Biology",
+      "crossref_year": 2022,
+      "ref_id": "basu2022"
+    },
+    {
+      "doi": "10.1016/j.cell.2012.06.035",
+      "status": "ok",
+      "crossref_title": "The BMP Inhibitor Coco Reactivates Breast Cancer Cells at Lung Metastatic Sites",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1016/j.cell.2012.06.035 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Cell",
+      "crossref_year": 2012,
+      "ref_id": "gao2012"
+    },
+    {
+      "doi": "10.1084/jem.20171385",
+      "status": "ok",
+      "crossref_title": "Itraconazole targets cell cycle heterogeneity in colorectal cancer",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1084/jem.20171385 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Journal of Experimental Medicine",
+      "crossref_year": 2018,
+      "ref_id": "buczacki2018"
+    },
+    {
+      "doi": "10.7150/jca.19486",
+      "status": "ok",
+      "crossref_title": "Interferon-α Promotes the Expression of Cancer Stem Cell Markers in Oral Squamous Cell Carcinoma",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.7150/jca.19486 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Journal of Cancer",
+      "crossref_year": 2017,
+      "ref_id": "ma2017"
+    },
+    {
+      "doi": "10.2741/A848",
+      "status": "warning",
+      "crossref_title": "Molecular regulation of iron homeostasis and resistance to infection in alcoholics",
+      "title_match": false,
+      "title_similarity": 0.091,
+      "message": "DOI 10.2741/A848 resolves but TITLE MISMATCH.\n  Reported: Adenovirus and cell cycle control\n  CrossRef: Molecular regulation of iron homeostasis and resistance to infection in alcoholics\n  Similarity: 0.09",
+      "crossref_journal": "Frontiers in Bioscience",
+      "crossref_year": 2002,
+      "ref_id": "benisrael2002"
+    },
+    {
+      "doi": "10.1093/nar/gkn1057",
+      "status": "ok",
+      "crossref_title": "Transcriptional control by adenovirus E1A conserved region 3 via p300/CBP",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1093/nar/gkn1057 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Nucleic Acids Research",
+      "crossref_year": 2009,
+      "ref_id": "pelka2009"
+    },
+    {
+      "doi": "10.1128/JVI.01079-13",
+      "status": "warning",
+      "crossref_title": "Human T Lymphotropic Virus Type 1 SU Residue 195 Plays a Role in Determining the Preferential CD4<sup>+</sup>T Cell Immortalization/Transformation Tropism",
+      "title_match": false,
+      "title_similarity": 0.0,
+      "message": "DOI 10.1128/JVI.01079-13 resolves but TITLE MISMATCH.\n  Reported: Adenovirus E1A oncogene induces rereplication of cellular DNA and alters DNA replication dynamics\n  CrossRef: Human T Lymphotropic Virus Type 1 SU Residue 195 Plays a Role in Determining the Preferential CD4<sup>+</sup>T Cell Immo\n  Similarity: 0.00",
+      "crossref_journal": "Journal of Virology",
+      "crossref_year": 2013,
+      "ref_id": "singhal2013"
+    },
+    {
+      "doi": "10.18632/oncotarget.10195",
+      "status": "warning",
+      "crossref_title": "Targeting mTOR pathway inhibits tumor growth in different molecular subtypes of triple-negative breast cancers",
+      "title_match": false,
+      "title_similarity": 0.111,
+      "message": "DOI 10.18632/oncotarget.10195 resolves but TITLE MISMATCH.\n  Reported: A p53-independent apoptotic mechanism of adenoviral mutant E1A was involved in its selective antitumor activity for huma\n  CrossRef: Targeting mTOR pathway inhibits tumor growth in different molecular subtypes of triple-negative breast cancers\n  Similarity: 0.11",
+      "crossref_journal": "Oncotarget",
+      "crossref_year": 2016,
+      "ref_id": "fang2016"
+    },
+    {
+      "doi": "10.1038/cddiscovery.2016.76",
+      "status": "ok",
+      "crossref_title": "E1A enhances cellular sensitivity to DNA-damage-induced apoptosis through PIDD-dependent caspase-2 activation",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1038/cddiscovery.2016.76 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Cell Death Discovery",
+      "crossref_year": 2016,
+      "ref_id": "radke2016"
+    },
+    {
+      "doi": "10.18632/oncotarget.6574",
+      "status": "ok",
+      "crossref_title": "MKP1 mediates chemosensitizer effects of E1a in response to cisplatin in non-small cell lung carcinoma cells",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.18632/oncotarget.6574 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Oncotarget",
+      "crossref_year": 2015,
+      "ref_id": "cimas2015"
+    },
+    {
+      "doi": "10.1158/0008-5472.CAN-04-1341",
+      "status": "warning",
+      "crossref_title": "High Frequency of Functionally Active Melan-A–Specific T Cells in a Patient with Progressive Immunoproteasome-Deficient Melanoma",
+      "title_match": false,
+      "title_similarity": 0.2,
+      "message": "DOI 10.1158/0008-5472.CAN-04-1341 resolves but TITLE MISMATCH.\n  Reported: A new role of protein phosphatase 2A in adenoviral E1A protein-mediated sensitization to anticancer drug-induced apoptos\n  CrossRef: High Frequency of Functionally Active Melan-A–Specific T Cells in a Patient with Progressive Immunoproteasome-Deficient \n  Similarity: 0.20",
+      "crossref_journal": "Cancer Research",
+      "crossref_year": 2004,
+      "ref_id": "liao2004pp2a"
+    },
+    {
+      "doi": "10.1038/sj.cgt.7700734",
+      "status": "warning",
+      "crossref_title": "Chemosensitizing tumor cells by targeting the Fanconi anemia pathway with an adenovirus overexpressing dominant-negative FANCA",
+      "title_match": false,
+      "title_similarity": 0.045,
+      "message": "DOI 10.1038/sj.cgt.7700734 resolves but TITLE MISMATCH.\n  Reported: Enhanced paclitaxel cytotoxicity and prolonged animal survival rate by a nonviral-mediated systemic delivery of E1A gene\n  CrossRef: Chemosensitizing tumor cells by targeting the Fanconi anemia pathway with an adenovirus overexpressing dominant-negative\n  Similarity: 0.05",
+      "crossref_journal": "Cancer Gene Therapy",
+      "crossref_year": 2004,
+      "ref_id": "liao2004paclitaxel"
+    },
+    {
+      "ref_id": "zhou2001",
+      "status": "skipped",
+      "message": "[zhou2001] No identifier (DOI/PMID/NCT) to validate.\n  Title: E1A sensitizes HER2/neu-overexpressing Ewing's sarcoma cells to topoisomerase II-targeting anticancer drugs"
+    },
+    {
+      "doi": "10.1038/onc.2010.295",
+      "status": "ok",
+      "crossref_title": "Adenovirus 5 E1A enhances histone deacetylase inhibitors-induced apoptosis through Egr-1-mediated Bim upregulation",
+      "title_match": true,
+      "title_similarity": 1.0,
+      "message": "DOI 10.1038/onc.2010.295 resolves — title matches (similarity=1.00)",
+      "crossref_journal": "Oncogene",
+      "crossref_year": 2010,
+      "ref_id": "yamaguchi2010"
+    },
+    {
+      "doi": "10.1007/s00005-014-0277-4",
+      "status": "error",
+      "crossref_title": null,
+      "title_match": null,
+      "title_similarity": null,
+      "message": "DOI 10.1007/s00005-014-0277-4 — CrossRef API returned no valid response",
+      "ref_id": "chang2014"
+    },
+    {
+      "nct_id": "NCT00102622",
+      "status": "ok",
+      "nct_title": "Intraperitoneal tgDCC-E1 and Intravenous Paclitaxel in Women With Platinum-Resistant Ovarian Cancer",
+      "nct_status": "TERMINATED",
+      "message": "NCT NCT00102622 — \"Intraperitoneal tgDCC-E1 and Intravenous Paclitaxel in Women With Platinum-Resistant Ovarian Cancer...\" (status: TERMINATED)",
+      "ref_id": "nct00102622"
+    },
+    {
+      "doi": "10.1038/s41392-024-01803-6",
+      "status": "warning",
+      "crossref_title": "G protein-coupled receptors (GPCRs): advances in structures, mechanisms and drug discovery",
+      "title_match": false,
+      "title_similarity": 0.091,
+      "message": "DOI 10.1038/s41392-024-01803-6 resolves but TITLE MISMATCH.\n  Reported: Drug repurposing for cancer therapy\n  CrossRef: G protein-coupled receptors (GPCRs): advances in structures, mechanisms and drug discovery\n  Similarity: 0.09",
+      "crossref_journal": "Signal Transduction and Targeted Therapy",
+      "crossref_year": 2024,
+      "ref_id": "xia2024"
+    }
+  ]
+}

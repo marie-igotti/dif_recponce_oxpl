@@ -1,0 +1,450 @@
+[
+  {
+    "id": "deconti2024",
+    "authors": "De Conti G, Dias MH, Bernards R",
+    "title": "Drug tolerant persister cell plasticity in cancer: a revolutionary strategy for more effective anticancer therapies",
+    "journal": "Signal Transduction and Targeted Therapy",
+    "year": 2024,
+    "volume": "9",
+    "pages": "209",
+    "doi": "10.1038/s41392-024-01891-4"
+  },
+  {
+    "id": "rehman2021",
+    "authors": "Rehman SK, Haynes J, Collignon E, Brown KR, Wang Y, Nixon AML, Bruce JP, Wintersinger JA, Mer AS, Lo EBL, Leung C, Lima-Fernandes E, Pedley NM, Soares F, McGibbon S, He HH, Pollet A, Pugh TJ, Haibe-Kains B, Moffat J, O'Brien CA",
+    "title": "Colorectal cancer cells enter a diapause-like DTP state to survive chemotherapy",
+    "journal": "Cell",
+    "year": 2021,
+    "volume": "184",
+    "issue": "1",
+    "pages": "226-242.e21",
+    "doi": "10.1016/j.cell.2020.11.018"
+  },
+  {
+    "id": "lindell2023",
+    "authors": "Lindell E, Zhong L, Zhang X",
+    "title": "Quiescent cancer cells — a potential therapeutic target to overcome tumor resistance and relapse",
+    "journal": "International Journal of Molecular Sciences",
+    "year": 2023,
+    "volume": "24",
+    "issue": "4",
+    "pages": "3762",
+    "doi": "10.3390/ijms24043762"
+  },
+  {
+    "id": "cuesta2023",
+    "authors": "Cuesta-Borràs E, Salvans C, Arqués O, Chicote I, Ramírez L, Cabellos L, Martínez-Quintanilla J, Mur-Espinosa A, García-Álvarez A, Hernando J, Tejedor JR, Mirallas O, Élez E, Fraga MF, Tabernero J, Nuciforo P, Capdevila J, Palmer HG, Puig I",
+    "title": "DPPA3-HIF1α axis controls colorectal cancer chemoresistance by imposing a slow cell-cycle phenotype",
+    "journal": "Cell Reports",
+    "year": 2023,
+    "volume": "42",
+    "issue": "8",
+    "pages": "112927",
+    "doi": "10.1016/j.celrep.2023.112927"
+  },
+  {
+    "id": "khong2025",
+    "authors": "Khong A, Matheny T, Parker R",
+    "title": "Stress granules promote quiescence by enhancing p21 levels and reducing phospho-Rb",
+    "journal": "RNA",
+    "year": 2025,
+    "pmid": "40738736"
+  },
+  {
+    "id": "william2007",
+    "authors": "William-Faltaos S, Rouillard D, Lechat P, Bastian G",
+    "title": "Cell cycle arrest by oxaliplatin on cancer cells",
+    "journal": "Fundamental & Clinical Pharmacology",
+    "year": 2007,
+    "volume": "21",
+    "issue": "2",
+    "pages": "165-172",
+    "doi": "10.1111/j.1472-8206.2007.00471.x"
+  },
+  {
+    "id": "tazawa2026",
+    "authors": "Tazawa H, Kagawa S, Fujiwara T",
+    "title": "Adenovirus E1A protein sensitizes chemotherapy-resistant tumors to cisplatin",
+    "journal": "Annals of Medicine and Surgery",
+    "year": 2026,
+    "volume": "82",
+    "issue": "2",
+    "pages": "107694",
+    "doi": "10.1097/MS9.0000000000003112"
+  },
+  {
+    "id": "hata2005",
+    "authors": "Hata T, Yamamoto H, Ngan CY, Koi M, Takagi A, Damdinsuren B, Yasui M, Fujie Y, Matsuzaki T, Hemmi H, Xu X, Kitajima K, Takeda Y, Takemasa I, Sekimoto M, Matsuura N, Monden M",
+    "title": "Role of p21waf1/cip1 in effects of oxaliplatin in colorectal cancer cells",
+    "journal": "Molecular Cancer Therapeutics",
+    "year": 2005,
+    "volume": "4",
+    "issue": "10",
+    "pages": "1585-1594",
+    "doi": "10.1158/1535-7163.MCT-05-0011"
+  },
+  {
+    "id": "chen2025",
+    "authors": "Chen X, et al.",
+    "title": "Single-cell RNA sequencing reveals a quiescence-senescence continuum and distinct senotypes following chemotherapy",
+    "journal": "Nature Communications",
+    "year": 2025,
+    "volume": "16",
+    "pages": "66836",
+    "doi": "10.1038/s41467-025-66836-z"
+  },
+  {
+    "id": "li2025",
+    "authors": "Li Y, et al.",
+    "title": "miR-100-5p enhances cell cycle-mediated chemoresistance by modulating the CTDSPL/pRB/E2F1 signaling pathway in oxaliplatin-resistant colorectal cancer cells",
+    "journal": "International Journal of Molecular Medicine",
+    "year": 2025,
+    "doi": "10.3892/ijmm.2025.5675"
+  },
+  {
+    "id": "abasi2016",
+    "authors": "Abasi M, Bazi Z, Mohammadi-Yeganeh S, Soleimani M, Haghpanah V, Zargami N",
+    "title": "7SK small nuclear RNA transcription level down-regulates in human tumors and stem cells",
+    "journal": "Medical Oncology",
+    "year": 2016,
+    "volume": "33",
+    "issue": "11",
+    "pages": "128",
+    "doi": "10.1007/s12032-016-0842-7"
+  },
+  {
+    "id": "bandiera2021",
+    "authors": "Bandiera R, Wagner RE, Britto-Borges T, Dieterich C, Dietmann S, Bornelöv S, Frye M",
+    "title": "RN7SK small nuclear RNA controls bidirectional transcription of highly expressed gene pairs in skin",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "volume": "12",
+    "issue": "1",
+    "pages": "5864",
+    "doi": "10.1038/s41467-021-26066-3"
+  },
+  {
+    "id": "wang2023",
+    "authors": "Wang Y, et al.",
+    "title": "N6-methyladenosine in 7SK small nuclear RNA underlies RNA polymerase II transcription regulation",
+    "journal": "Molecular Cell",
+    "year": 2023,
+    "volume": "83",
+    "issue": "21",
+    "pages": "3819-3836.e8",
+    "doi": "10.1016/j.molcel.2023.09.021"
+  },
+  {
+    "id": "mirzaei2025",
+    "authors": "Mirzaei E, et al.",
+    "title": "Targeted inhibition of 7SK long non-coding RNA using Rn7SK-siRNA promotes gastric cancer cell proliferation and migration",
+    "journal": "Molecular Therapy — Nucleic Acids",
+    "year": 2025,
+    "volume": "36",
+    "issue": "1",
+    "pages": "102449",
+    "doi": "10.1016/j.omtn.2025.102449"
+  },
+  {
+    "id": "xie2023",
+    "authors": "Xie M, Zhang L, Han L, Huang L, Huang Y, Yang M",
+    "title": "The ASH1L-AS1-ASH1L axis controls NME1-mediated activation of the RAS signaling in gastric cancer",
+    "journal": "Oncogene",
+    "year": 2023,
+    "volume": "42",
+    "issue": "46",
+    "pages": "3435-3445",
+    "doi": "10.1038/s41388-023-02835-2"
+  },
+  {
+    "id": "shakeri2024",
+    "authors": "Shakeri F, Mohamadynejad P, Moghanibashi M",
+    "title": "Identification of ASMTL-AS1 and LINC02604 lncRNAs as novel biomarkers for diagnosis of colorectal cancer",
+    "journal": "International Journal of Colorectal Disease",
+    "year": 2024,
+    "volume": "39",
+    "issue": "1",
+    "pages": "112",
+    "doi": "10.1007/s00384-024-04675-8"
+  },
+  {
+    "id": "chen2018",
+    "authors": "Chen J, Luo Y, Zhou Y, Qin S, Qiu Y, Cui R",
+    "title": "Promotion of tumor growth by ADAMTS4 in colorectal cancer: focused on macrophages",
+    "journal": "Cellular Physiology and Biochemistry",
+    "year": 2018,
+    "volume": "46",
+    "issue": "4",
+    "pages": "1693-1703",
+    "doi": "10.1159/000489246"
+  },
+  {
+    "id": "zhai2024",
+    "authors": "Zhai W, Yang W, Ge J, Xiao X, Wu K, She K",
+    "title": "ADAMTS4 exacerbates lung cancer progression via regulating c-Myc protein stability and activating MAPK signaling pathway",
+    "journal": "Biology Direct",
+    "year": 2024,
+    "volume": "19",
+    "pages": "94",
+    "doi": "10.1186/s13062-024-00542-4"
+  },
+  {
+    "id": "takikawa2025",
+    "authors": "Takikawa M, Ohki R",
+    "title": "Reprimo (RPRM): a tumor suppressor that induces extrinsic apoptosis via YAP signaling",
+    "journal": "Cancer Science",
+    "year": 2025,
+    "volume": "116",
+    "issue": "12",
+    "pages": "3266-3273",
+    "doi": "10.1111/cas.16497"
+  },
+  {
+    "id": "yao2012",
+    "authors": "Yao J, Liang L, Huang S, Ding J, Tan J, Ding Y",
+    "title": "GNAI1 suppresses tumor cell migration and invasion in hepatocellular carcinoma",
+    "journal": "Asian Pacific Journal of Cancer Prevention",
+    "year": 2012,
+    "needs_verification": true,
+    "note": "Reference incomplete in manuscript — full journal/DOI pending"
+  },
+  {
+    "id": "li2019",
+    "authors": "Li ZW, Sun B, Gong T, Guo S, Zhang J, Wang J",
+    "title": "Reduced GNAI1 expression linked to colitis-associated tumorigenesis",
+    "journal": "Cancer Research (or similar)",
+    "year": 2019,
+    "needs_verification": true,
+    "note": "Reference incomplete in manuscript — full journal/DOI pending"
+  },
+  {
+    "id": "li2021redox",
+    "authors": "Li B, Huang Y, Ming H, Nice EC, Xuan R, Huang C",
+    "title": "Redox control of the dormant cancer cell life cycle",
+    "journal": "Cells",
+    "year": 2021,
+    "volume": "10",
+    "issue": "10",
+    "pages": "2707",
+    "doi": "10.3390/cells10102707"
+  },
+  {
+    "id": "moussalem2024",
+    "authors": "Moussalem C, et al.",
+    "title": "Modelling oxaliplatin resistance in colorectal cancer reveals a SERPINE1-based gene signature (RESIST-M)",
+    "journal": "bioRxiv (preprint)",
+    "year": 2024,
+    "doi": "10.1101/2024.12.17.628817",
+    "note": "Preprint — check for peer-reviewed publication"
+  },
+  {
+    "id": "pan2025",
+    "authors": "Pan T, et al.",
+    "title": "BRD4 regulates PAI-1 expression in tumor-associated macrophages to drive chemoresistance in colorectal cancer",
+    "journal": "Oncogene",
+    "year": 2025,
+    "doi": "10.1038/s41388-025-03453-6"
+  },
+  {
+    "id": "wiedemann2023",
+    "authors": "Wiedemann S, et al.",
+    "title": "Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer",
+    "journal": "Genome Biology",
+    "year": 2023,
+    "volume": "24",
+    "pages": "128",
+    "doi": "10.1186/s13059-023-02963-4"
+  },
+  {
+    "id": "yano2020",
+    "authors": "Yano S, Tazawa H, Kagawa S, Fujiwara T, Hoffman RM",
+    "title": "FUCCI real-time cell-cycle imaging as a guide for designing improved cancer therapy: a review of innovative strategies to target quiescent chemo-resistant cancer cells",
+    "journal": "Cancers",
+    "year": 2020,
+    "volume": "12",
+    "issue": "9",
+    "pages": "2655",
+    "doi": "10.3390/cancers12092655"
+  },
+  {
+    "id": "basu2022",
+    "authors": "Basu S, Dong Y, Kumar R, Jeter C, Tang DG",
+    "title": "Slow-cycling (dormant) cancer cells in therapy resistance, cancer relapse and metastasis",
+    "journal": "Seminars in Cancer Biology",
+    "year": 2022,
+    "volume": "78",
+    "pages": "90-103",
+    "doi": "10.1016/j.semcancer.2021.04.021"
+  },
+  {
+    "id": "gao2012",
+    "authors": "Gao H, Chakraborty G, Lee-Lim AP, Mo Q, Decker M, Vonica A",
+    "title": "The BMP inhibitor Coco reactivates breast cancer cells at lung metastatic sites",
+    "journal": "Cell",
+    "year": 2012,
+    "volume": "150",
+    "issue": "4",
+    "pages": "764-779",
+    "doi": "10.1016/j.cell.2012.06.035"
+  },
+  {
+    "id": "buczacki2018",
+    "authors": "Buczacki SJA, Popova S, Biggs E, Koukorava C, Buzzelli J, Vermeulen L",
+    "title": "Itraconazole targets cell cycle heterogeneity in colorectal cancer",
+    "journal": "Journal of Experimental Medicine",
+    "year": 2018,
+    "volume": "215",
+    "issue": "7",
+    "pages": "1891-1912",
+    "doi": "10.1084/jem.20171385"
+  },
+  {
+    "id": "ma2017",
+    "authors": "Ma H, Jin S, Yang W, Tian Z, Liu S, Wang Y",
+    "title": "Interferon-α promotes the expression of cancer stem cell markers in oral squamous cell carcinoma",
+    "journal": "Journal of Cancer",
+    "year": 2017,
+    "volume": "8",
+    "issue": "12",
+    "pages": "2384-2393",
+    "doi": "10.7150/jca.19486"
+  },
+  {
+    "id": "benisrael2002",
+    "authors": "Ben-Israel H, Kleinberger T",
+    "title": "Adenovirus and cell cycle control",
+    "journal": "Frontiers in Bioscience",
+    "year": 2002,
+    "volume": "7",
+    "pages": "d1369-d1395",
+    "doi": "10.2741/A848"
+  },
+  {
+    "id": "pelka2009",
+    "authors": "Pelka P, Ablack JNG, Torchia J, Turnell AS, Grand RJA, Mymryk JS",
+    "title": "Transcriptional control by adenovirus E1A conserved region 3 via p300/CBP",
+    "journal": "Nucleic Acids Research",
+    "year": 2009,
+    "volume": "37",
+    "issue": "4",
+    "pages": "1095-1106",
+    "doi": "10.1093/nar/gkn1057"
+  },
+  {
+    "id": "singhal2013",
+    "authors": "Singhal G, Leo E, Setty SKG, Pommier Y, Thimmapaya B",
+    "title": "Adenovirus E1A oncogene induces rereplication of cellular DNA and alters DNA replication dynamics",
+    "journal": "Journal of Virology",
+    "year": 2013,
+    "volume": "87",
+    "issue": "15",
+    "pages": "8767-8778",
+    "doi": "10.1128/JVI.01079-13"
+  },
+  {
+    "id": "fang2016",
+    "authors": "Fang L, Cheng Q, Zhao J, Ge Y, Zhu Q, Zhao M",
+    "title": "A p53-independent apoptotic mechanism of adenoviral mutant E1A was involved in its selective antitumor activity for human cancer",
+    "journal": "Oncotarget",
+    "year": 2016,
+    "volume": "7",
+    "issue": "30",
+    "pages": "48309-48320",
+    "doi": "10.18632/oncotarget.10195"
+  },
+  {
+    "id": "radke2016",
+    "authors": "Radke JR, Siddiqui ZK, Figueroa I, Cook JL",
+    "title": "E1A enhances cellular sensitivity to DNA-damage-induced apoptosis through PIDD-dependent caspase-2 activation",
+    "journal": "Cell Death Discovery",
+    "year": 2016,
+    "volume": "2",
+    "pages": "16076",
+    "doi": "10.1038/cddiscovery.2016.76"
+  },
+  {
+    "id": "cimas2015",
+    "authors": "Cimas FJ, Callejas-Valera JL, Pascual-Serra R, García-Cano J, Garcia-Gil E, De la Cruz-Morcillo MA",
+    "title": "MKP1 mediates chemosensitizer effects of E1A in response to cisplatin in non-small cell lung carcinoma cells",
+    "journal": "Oncotarget",
+    "year": 2015,
+    "volume": "6",
+    "issue": "42",
+    "pages": "44095-44107",
+    "doi": "10.18632/oncotarget.6574"
+  },
+  {
+    "id": "liao2004pp2a",
+    "authors": "Liao Y, Hung MC",
+    "title": "A new role of protein phosphatase 2A in adenoviral E1A protein-mediated sensitization to anticancer drug-induced apoptosis in human breast cancer cells",
+    "journal": "Cancer Research",
+    "year": 2004,
+    "volume": "64",
+    "issue": "17",
+    "pages": "5938-5942",
+    "doi": "10.1158/0008-5472.CAN-04-1341"
+  },
+  {
+    "id": "liao2004paclitaxel",
+    "authors": "Liao Y, Zou YY, Xia WY, Hung MC",
+    "title": "Enhanced paclitaxel cytotoxicity and prolonged animal survival rate by a nonviral-mediated systemic delivery of E1A gene in orthotopic xenograft human breast cancer",
+    "journal": "Cancer Gene Therapy",
+    "year": 2004,
+    "volume": "11",
+    "issue": "9",
+    "pages": "594-602",
+    "doi": "10.1038/sj.cgt.7700734"
+  },
+  {
+    "id": "zhou2001",
+    "authors": "Zhou Z, Jia SF, Hung MC, Kleinerman ES",
+    "title": "E1A sensitizes HER2/neu-overexpressing Ewing's sarcoma cells to topoisomerase II-targeting anticancer drugs",
+    "journal": "Cancer Research",
+    "year": 2001,
+    "volume": "61",
+    "issue": "8",
+    "pages": "3394-3398"
+  },
+  {
+    "id": "yamaguchi2010",
+    "authors": "Yamaguchi H, Chen CT, Chou CK, Pal A, Bornmann W, Hortobagyi GN",
+    "title": "Adenovirus 5 E1A enhances histone deacetylase inhibitors-induced apoptosis through Egr-1-mediated Bim upregulation",
+    "journal": "Oncogene",
+    "year": 2010,
+    "volume": "29",
+    "issue": "41",
+    "pages": "5619-5629",
+    "doi": "10.1038/onc.2010.295"
+  },
+  {
+    "id": "chang2014",
+    "authors": "Chang YW, Hung MC, Su JL",
+    "title": "The anti-tumor activity of E1A and its implications in cancer therapy",
+    "journal": "Archivum Immunologiae et Therapiae Experimentalis",
+    "year": 2014,
+    "volume": "62",
+    "issue": "3",
+    "pages": "195-204",
+    "doi": "10.1007/s00005-014-0277-4"
+  },
+  {
+    "id": "nct00102622",
+    "authors": "M.D. Anderson Cancer Center",
+    "title": "Phase I/II Randomized Study of Intraperitoneal tgDCC-E1 and Intravenous Paclitaxel in Women With Platinum-Resistant Ovarian Cancer",
+    "journal": "ClinicalTrials.gov",
+    "year": 2018,
+    "nct_id": "NCT00102622",
+    "note": "Clinical trial — validate via ClinicalTrials.gov API"
+  },
+  {
+    "id": "xia2024",
+    "authors": "Xia Y, Sun M, Huang H, Jin WL",
+    "title": "Drug repurposing for cancer therapy",
+    "journal": "Signal Transduction and Targeted Therapy",
+    "year": 2024,
+    "volume": "9",
+    "issue": "1",
+    "pages": "92",
+    "doi": "10.1038/s41392-024-01803-6"
+  }
+]
