@@ -59,7 +59,7 @@
     "volume": "21",
     "issue": "2",
     "pages": "165-172",
-    "doi": "10.1111/j.1472-8206.2007.00471.x"
+    "doi": "10.1111/j.1472-8206.2007.00462.x"
   },
   {
     "id": "tazawa2026",
@@ -70,7 +70,7 @@
     "volume": "82",
     "issue": "2",
     "pages": "107694",
-    "doi": "10.1097/MS9.0000000000003112"
+    "doi": "10.1097/ms9.0000000000004440"
   },
   {
     "id": "hata2005",
@@ -97,9 +97,9 @@
     "id": "li2025",
     "authors": "Li Y, et al.",
     "title": "miR-100-5p enhances cell cycle-mediated chemoresistance by modulating the CTDSPL/pRB/E2F1 signaling pathway in oxaliplatin-resistant colorectal cancer cells",
-    "journal": "International Journal of Molecular Medicine",
+    "journal": "Oncology Research",
     "year": 2025,
-    "doi": "10.3892/ijmm.2025.5675"
+    "doi": "10.32604/or.2026.073080"
   },
   {
     "id": "abasi2016",
@@ -110,7 +110,7 @@
     "volume": "33",
     "issue": "11",
     "pages": "128",
-    "doi": "10.1007/s12032-016-0842-7"
+    "doi": "10.1007/s12032-016-0841-x"
   },
   {
     "id": "bandiera2021",
@@ -121,7 +121,7 @@
     "volume": "12",
     "issue": "1",
     "pages": "5864",
-    "doi": "10.1038/s41467-021-26066-3"
+    "doi": "10.1038/s41467-021-26083-4"
   },
   {
     "id": "wang2023",
@@ -132,18 +132,18 @@
     "volume": "83",
     "issue": "21",
     "pages": "3819-3836.e8",
-    "doi": "10.1016/j.molcel.2023.09.021"
+    "doi": "10.1016/j.molcel.2023.09.020"
   },
   {
     "id": "mirzaei2025",
     "authors": "Mirzaei E, et al.",
     "title": "Targeted inhibition of 7SK long non-coding RNA using Rn7SK-siRNA promotes gastric cancer cell proliferation and migration",
-    "journal": "Molecular Therapy — Nucleic Acids",
+    "journal": "Gene Reports",
     "year": 2025,
     "volume": "36",
     "issue": "1",
     "pages": "102449",
-    "doi": "10.1016/j.omtn.2025.102449"
+    "doi": "10.1016/j.genrep.2025.102349"
   },
   {
     "id": "xie2023",
@@ -154,7 +154,7 @@
     "volume": "42",
     "issue": "46",
     "pages": "3435-3445",
-    "doi": "10.1038/s41388-023-02835-2"
+    "doi": "10.1038/s41388-023-02855-8"
   },
   {
     "id": "shakeri2024",
@@ -165,7 +165,7 @@
     "volume": "39",
     "issue": "1",
     "pages": "112",
-    "doi": "10.1007/s00384-024-04675-8"
+    "doi": "10.1007/s00384-024-04692-x"
   },
   {
     "id": "chen2018",
@@ -176,7 +176,7 @@
     "volume": "46",
     "issue": "4",
     "pages": "1693-1703",
-    "doi": "10.1159/000489246"
+    "doi": "10.1159/000489245"
   },
   {
     "id": "zhai2024",
@@ -186,7 +186,7 @@
     "year": 2024,
     "volume": "19",
     "pages": "94",
-    "doi": "10.1186/s13062-024-00542-4"
+    "doi": "10.1186/s13062-024-00512-y"
   },
   {
     "id": "takikawa2025",
@@ -197,7 +197,7 @@
     "volume": "116",
     "issue": "12",
     "pages": "3266-3273",
-    "doi": "10.1111/cas.16497"
+    "doi": "10.1111/cas.70215"
   },
   {
     "id": "yao2012",
@@ -317,7 +317,7 @@
     "year": 2002,
     "volume": "7",
     "pages": "d1369-d1395",
-    "doi": "10.2741/A848"
+    "doi": "10.2741/a847"
   },
   {
     "id": "pelka2009",
@@ -339,7 +339,7 @@
     "volume": "87",
     "issue": "15",
     "pages": "8767-8778",
-    "doi": "10.1128/JVI.01079-13"
+    "doi": "10.1128/jvi.00879-13"
   },
   {
     "id": "fang2016",
@@ -350,7 +350,7 @@
     "volume": "7",
     "issue": "30",
     "pages": "48309-48320",
-    "doi": "10.18632/oncotarget.10195"
+    "doi": "10.18632/oncotarget.10221"
   },
   {
     "id": "radke2016",
@@ -382,7 +382,7 @@
     "volume": "64",
     "issue": "17",
     "pages": "5938-5942",
-    "doi": "10.1158/0008-5472.CAN-04-1341"
+    "doi": "10.1158/0008-5472.can-04-1533"
   },
   {
     "id": "liao2004paclitaxel",
@@ -393,7 +393,7 @@
     "volume": "11",
     "issue": "9",
     "pages": "594-602",
-    "doi": "10.1038/sj.cgt.7700734"
+    "doi": "10.1038/sj.cgt.7700743"
   },
   {
     "id": "zhou2001",
@@ -403,7 +403,8 @@
     "year": 2001,
     "volume": "61",
     "issue": "8",
-    "pages": "3394-3398"
+    "pages": "3394-3398",
+    "pmid": "11309298"
   },
   {
     "id": "yamaguchi2010",
@@ -425,7 +426,7 @@
     "volume": "62",
     "issue": "3",
     "pages": "195-204",
-    "doi": "10.1007/s00005-014-0277-4"
+    "doi": "10.1007/s00005-014-0273-2"
   },
   {
     "id": "nct00102622",
@@ -445,6 +446,6 @@
     "volume": "9",
     "issue": "1",
     "pages": "92",
-    "doi": "10.1038/s41392-024-01803-6"
+    "doi": "10.1038/s41392-024-01808-1"
   }
 ]
