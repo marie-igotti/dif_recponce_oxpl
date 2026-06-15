@@ -58,8 +58,9 @@ _HTML_TAG_RE = re.compile(r"<[^>]+>")
 def normalize_title(t: str) -> str:
     """Normalize a title for fuzzy comparison — strips HTML, punctuation, extra ws."""
     t = _HTML_TAG_RE.sub("", t)           # strip <i>, </i>, <sup>, etc.
+    t = re.sub(r"\s*-\s*", "-", t)        # collapse " - " artifacts from HTML-stripping
     t = t.lower().strip().rstrip(".")
-    t = re.sub(r"[^a-z0-9\s]", "", t)     # strip punctuation
+    t = re.sub(r"[^a-z0-9\s]", "", t)     # strip punctuation (hyphens now become nothing)
     t = re.sub(r"\s+", " ", t)            # collapse whitespace
     return t
 
